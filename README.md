@@ -1,5 +1,8 @@
 # handlebars-asset-pipeline-example
-Sample grails application with handlebars asset pipeline issue
+Sample grails application with handlebars asset pipeline issue [#215](https://github.com/bertramdev/asset-pipeline/issues/215).
+
+**Update 24/01/2015**
+This issue is fixed in handlebars-asset-pipeline 2.0.0.1.
 
 ## Instructions
 
